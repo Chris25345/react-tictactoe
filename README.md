@@ -1,6 +1,6 @@
 # Tic-Tac-Toe React game
 
-<img src="pictures/game.md" width="500">
+<img src="pictures/game.png" width="500">
 
 ## Стек технологий 
 
